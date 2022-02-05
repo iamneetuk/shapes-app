@@ -18,4 +18,4 @@ Steps to use application:
 3. To change the shape type to be drawn select that shape type button and the shape type would get changed accordingly.
 
 Demo
-![alt text](https://github.com/[iamneetuk]/[shapes-app]/blob/[main]/demo.jpg?raw=true)
+![alt image](https://github.com/iamneetuk/shapes-app/blob/main/demo.png?raw=true)
