@@ -1,7 +1,7 @@
-# shapes-app
-React and Node app to draw new shapes
+# Shapes React Node App
+React and Node app to draw new shapes.
 
-Steps to start client and server (and change port if required):
+## Steps to start client and server (and change port if required):
 
 1. Go to the client folder and do npm install.
 2. Go to the server folder and do npm install.
@@ -12,10 +12,10 @@ Steps to start client and server (and change port if required):
 7. Change port number in cleerly/client/src/shapes.js shapes_constants constant at the top in the server_url variable.
 
 
-Steps to use application:
+## Steps to use application:
 
 2. Select one of the buttons out of Draw Rect or Draw Line to start drawing the corrosponding shape.
 3. To change the shape type to be drawn select that shape type button and the shape type would get changed accordingly.
 
-Demo
+## Demo
 ![alt image](https://github.com/iamneetuk/shapes-app/blob/main/demo.png?raw=true)
