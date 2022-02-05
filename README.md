@@ -1,4 +1,4 @@
-# Shapes React Node App
+# Shapes App
 React and Node app to draw new shapes.
 
 ## Installation- Steps to start client and server:
