@@ -16,3 +16,6 @@ Steps to use application:
 
 2. Select one of the buttons out of Draw Rect or Draw Line to start drawing the corrosponding shape.
 3. To change the shape type to be drawn select that shape type button and the shape type would get changed accordingly.
+
+Demo
+![alt text](https://github.com/[iamneetuk]/[shapes-app]/blob/[main]/demo.jpg?raw=true)
